@@ -9,8 +9,8 @@ This open source app lets you know it!
 
 Lost your phone? Just **read the card** and you will know where and when was **the last time, your phone was in your pocket**!
 
-You can do the reading with an other phone or a regular NFC reader.
+(You can do the reading with an other phone or a regular NFC reader.)
 <br><br><br>
-No need for internet.
+No need for internet!
 
 In case of loosing GPS signal, you will see the last time and location when GPS was working and you will also see the time and orientation, when your phone was in your pocket for the last time.
