@@ -11,6 +11,7 @@ Lost your phone? Just **read the card** and you will know where and when was **t
 
 (You can do the reading with an other phone or a regular NFC reader.)
 <br><br><br>
+<hr>
 No need for internet!
 
 In case of loosing GPS signal, you will see the last time and location when GPS was working and you will also see the time and orientation, when your phone was in your pocket for the last time.
